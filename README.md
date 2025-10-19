@@ -1,4 +1,5 @@
 PURPOSE
+
 The purpose of Flipkart reviews sentiment analysis is to convert vast amounts of unstructured customer feedback into actionable business intelligence. By automatically determining if a review is positive, negative, or neutral, businesses can gain valuable insights into customer satisfaction, brand perception, and product quality. 
 For the company (Flipkart)
 •	Improve products and services: Identify product flaws, issues, and specific features that customers either love or dislike. This helps engineers and product teams prioritize improvements based on genuine customer feedback.
